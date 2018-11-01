@@ -2,7 +2,7 @@
 
 ***Accept bitcoin in your Wordpress WooCommerce store.***
 
-We’re glad that you’re interested in accepting bitcoin for your business. OpenNode allows you to quickly set it up in just 3 steps:
+We’re glad that you’re interested in accepting bitcoin for your business.
 
 1. Sign up for an account at https://opennode.co/signup
 2. Generate an API Key in your OpenNode dashboard
