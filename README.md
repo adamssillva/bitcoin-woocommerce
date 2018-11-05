@@ -22,7 +22,7 @@ You’re good to go to the next step!
 
 1. Login to your WordPress admin panel and go to Plugins > *Add New*
 2. Download plugin *btc-to-woocomerce* on Plugin *https://github.com/adamssillva/bitcoin-woocommerce/tree/master/Plugin* directory
-2. In the Search Plugins field, type in “opennode” and click “Install now”
+2. Upload the *bitcoin-woocommerce* folder in the plugins folder in your wordpress directory
 3. After the plugin is installed, click *“Activate”*
 4. Go to WooCommerce > Settings > Checkout > OpenNode and then click the check box next to “Accept Bitcoin instantly via OpenNode”
 5. Paste the previously generated API Key in the “API Auth Token Field and click “Save changes”
