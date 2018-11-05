@@ -2,7 +2,7 @@
 
 Accept Bitcoin instantly on your WooCommerce store.
 
-Read the plugin installation instructions below to get started with OpenNode payment gateway on your shop.
+Read the plugin installation instructions below to get started.
 
 ## Install
 
